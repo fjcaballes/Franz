@@ -9,7 +9,7 @@ body {
 }
 
 .App-header{
-  background-image: url(./main-bg.JPG);
+  background-image: url(./main-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width:100%;

@@ -1,7 +1,7 @@
 import React from 'react';
 import fjlogo from './fjlogo.png';
 import fjart from './fjart.png';
-import './App.css';
+import './App.css'; 
 
 function App() {
   return (
