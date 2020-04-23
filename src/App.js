@@ -1,22 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
+import fjlogo from './fjlogo.png';
+import fjart from './fjart.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={fjart} className="fj-art" alt="fj-pic" />
+        <img src={fjlogo} className="fj-logo" alt="logo" />
         <p>
-          Franz
+          Welcome to my first React web app!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://fb.com/fjcaballes"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          More about me >
         </a>
       </header>
     </div>
